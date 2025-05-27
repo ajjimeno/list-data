@@ -41,3 +41,16 @@ Output: [8, 8, 7, 6, 5, 4, 3, 1, 1, 0]
 Input: [2, 5, 4]
 Output: [5, 4, 2]
 ```
+
+# Citation
+
+If you use this dataset, cite as follow:
+
+```
+@article{yepes2025evolutionary,
+  title={Evolutionary thoughts: integration of large language models and evolutionary algorithms},
+  author={Yepes, Antonio Jimeno and Barnard, Pieter},
+  journal={arXiv preprint arXiv:2505.05756},
+  year={2025}
+}
+```
