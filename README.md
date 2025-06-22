@@ -49,7 +49,7 @@ If you use this dataset, cite as follow:
 ```
 @article{yepes2025evolutionary,
   title={Evolutionary thoughts: integration of large language models and evolutionary algorithms},
-  author={Yepes, Antonio Jimeno and Barnard, Pieter},
+  author={Jimeno Yepes, Antonio and Barnard, Pieter},
   journal={arXiv preprint arXiv:2505.05756},
   year={2025}
 }
